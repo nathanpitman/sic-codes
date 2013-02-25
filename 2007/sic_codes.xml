@@ -1,0 +1,4390 @@
+<?xml version="1.0"?>
+<table>
+
+	<row>
+		<field name="code">1130</field>
+		<field name="section">A</field>
+		<field name="description">Growing of vegetables and melons, roots and tubers</field>
+	</row>
+
+	<row>
+		<field name="code">1120</field>
+		<field name="section">A</field>
+		<field name="description">Growing of rice</field>
+	</row>
+
+	<row>
+		<field name="code">1110</field>
+		<field name="section">A</field>
+		<field name="description">Growing of cereals (except rice), leguminous crops and oil seeds</field>
+	</row>
+
+	<row>
+		<field name="code">1140</field>
+		<field name="section">A</field>
+		<field name="description">Growing of sugar cane</field>
+	</row>
+
+	<row>
+		<field name="code">1150</field>
+		<field name="section">A</field>
+		<field name="description">Growing of tobacco</field>
+	</row>
+
+	<row>
+		<field name="code">1160</field>
+		<field name="section">A</field>
+		<field name="description">Growing of fibre crops</field>
+	</row>
+
+	<row>
+		<field name="code">1190</field>
+		<field name="section">A</field>
+		<field name="description">Growing of other non-perennial crops</field>
+	</row>
+
+	<row>
+		<field name="code">1210</field>
+		<field name="section">A</field>
+		<field name="description">Growing of grapes</field>
+	</row>
+
+	<row>
+		<field name="code">1220</field>
+		<field name="section">A</field>
+		<field name="description">Growing of tropical and subtropical fruits</field>
+	</row>
+
+	<row>
+		<field name="code">1230</field>
+		<field name="section">A</field>
+		<field name="description">Growing of citrus fruits</field>
+	</row>
+
+	<row>
+		<field name="code">1240</field>
+		<field name="section">A</field>
+		<field name="description">Growing of pome fruits and stone fruits</field>
+	</row>
+
+	<row>
+		<field name="code">1250</field>
+		<field name="section">A</field>
+		<field name="description">Growing of other tree and bush fruits and nuts</field>
+	</row>
+
+	<row>
+		<field name="code">1260</field>
+		<field name="section">A</field>
+		<field name="description">Growing of oleaginous fruits</field>
+	</row>
+
+	<row>
+		<field name="code">1270</field>
+		<field name="section">A</field>
+		<field name="description">Growing of beverage crops</field>
+	</row>
+
+	<row>
+		<field name="code">1280</field>
+		<field name="section">A</field>
+		<field name="description">Growing of spices, aromatic, drug and pharmaceutical crops</field>
+	</row>
+
+	<row>
+		<field name="code">1290</field>
+		<field name="section">A</field>
+		<field name="description">Growing of other perennial crops</field>
+	</row>
+
+	<row>
+		<field name="code">1300</field>
+		<field name="section">A</field>
+		<field name="description">Plant propagation</field>
+	</row>
+
+	<row>
+		<field name="code">1410</field>
+		<field name="section">A</field>
+		<field name="description">Raising of dairy cattle</field>
+	</row>
+
+	<row>
+		<field name="code">1420</field>
+		<field name="section">A</field>
+		<field name="description">Raising of other cattle and buffaloes</field>
+	</row>
+
+	<row>
+		<field name="code">1430</field>
+		<field name="section">A</field>
+		<field name="description">Raising of horses and other equines</field>
+	</row>
+
+	<row>
+		<field name="code">1440</field>
+		<field name="section">A</field>
+		<field name="description">Raising of camels and camelids</field>
+	</row>
+
+	<row>
+		<field name="code">1450</field>
+		<field name="section">A</field>
+		<field name="description">Raising of sheep and goats</field>
+	</row>
+
+	<row>
+		<field name="code">1460</field>
+		<field name="section">A</field>
+		<field name="description">Raising of swine/pigs</field>
+	</row>
+
+	<row>
+		<field name="code">1470</field>
+		<field name="section">A</field>
+		<field name="description">Raising of poultry</field>
+	</row>
+
+	<row>
+		<field name="code">1490</field>
+		<field name="section">A</field>
+		<field name="description">Raising of other animals</field>
+	</row>
+
+	<row>
+		<field name="code">1500</field>
+		<field name="section">A</field>
+		<field name="description">Mixed farming</field>
+	</row>
+
+	<row>
+		<field name="code">1610</field>
+		<field name="section">A</field>
+		<field name="description">Support activities for crop production</field>
+	</row>
+
+	<row>
+		<field name="code">1621</field>
+		<field name="section">A</field>
+		<field name="description">Farm animal boarding and care</field>
+	</row>
+
+	<row>
+		<field name="code">1629</field>
+		<field name="section">A</field>
+		<field name="description">Support activities for animal production (other than farm animal boarding and care) n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">1630</field>
+		<field name="section">A</field>
+		<field name="description">Post-harvest crop activities</field>
+	</row>
+
+	<row>
+		<field name="code">1640</field>
+		<field name="section">A</field>
+		<field name="description">Seed processing for propagation</field>
+	</row>
+
+	<row>
+		<field name="code">1700</field>
+		<field name="section">A</field>
+		<field name="description">Hunting, trapping and related service activities</field>
+	</row>
+
+	<row>
+		<field name="code">2100</field>
+		<field name="section">A</field>
+		<field name="description">Silviculture and other forestry activities</field>
+	</row>
+
+	<row>
+		<field name="code">2200</field>
+		<field name="section">A</field>
+		<field name="description">Logging</field>
+	</row>
+
+	<row>
+		<field name="code">2300</field>
+		<field name="section">A</field>
+		<field name="description">Gathering of wild growing non-wood products</field>
+	</row>
+
+	<row>
+		<field name="code">2400</field>
+		<field name="section">A</field>
+		<field name="description">Support services to forestry</field>
+	</row>
+
+	<row>
+		<field name="code">3110</field>
+		<field name="section">A</field>
+		<field name="description">Marine fishing</field>
+	</row>
+
+	<row>
+		<field name="code">3120</field>
+		<field name="section">A</field>
+		<field name="description">Freshwater fishing</field>
+	</row>
+
+	<row>
+		<field name="code">3210</field>
+		<field name="section">A</field>
+		<field name="description">Marine aquaculture</field>
+	</row>
+
+	<row>
+		<field name="code">3220</field>
+		<field name="section">A</field>
+		<field name="description">Freshwater aquaculture</field>
+	</row>
+
+	<row>
+		<field name="code">5101</field>
+		<field name="section">B</field>
+		<field name="description">Deep coal mines</field>
+	</row>
+
+	<row>
+		<field name="code">5102</field>
+		<field name="section">B</field>
+		<field name="description">Open cast coal working</field>
+	</row>
+
+	<row>
+		<field name="code">5200</field>
+		<field name="section">B</field>
+		<field name="description">Mining of lignite</field>
+	</row>
+
+	<row>
+		<field name="code">6100</field>
+		<field name="section">B</field>
+		<field name="description">Extraction of crude petroleum</field>
+	</row>
+
+	<row>
+		<field name="code">6200</field>
+		<field name="section">B</field>
+		<field name="description">Extraction of natural gas</field>
+	</row>
+
+	<row>
+		<field name="code">7100</field>
+		<field name="section">B</field>
+		<field name="description">Mining of iron ores</field>
+	</row>
+
+	<row>
+		<field name="code">7210</field>
+		<field name="section">B</field>
+		<field name="description">Mining of uranium and thorium ores</field>
+	</row>
+
+	<row>
+		<field name="code">7290</field>
+		<field name="section">B</field>
+		<field name="description">Mining of other non-ferrous metal ores</field>
+	</row>
+
+	<row>
+		<field name="code">8110</field>
+		<field name="section">B</field>
+		<field name="description">Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate</field>
+	</row>
+
+	<row>
+		<field name="code">8120</field>
+		<field name="section">B</field>
+		<field name="description">Operation of gravel and sand pits; mining of clays and kaolin</field>
+	</row>
+
+	<row>
+		<field name="code">8910</field>
+		<field name="section">B</field>
+		<field name="description">Mining of chemical and fertilizer minerals</field>
+	</row>
+
+	<row>
+		<field name="code">8920</field>
+		<field name="section">B</field>
+		<field name="description">Extraction of peat</field>
+	</row>
+
+	<row>
+		<field name="code">8930</field>
+		<field name="section">B</field>
+		<field name="description">Extraction of salt</field>
+	</row>
+
+	<row>
+		<field name="code">8990</field>
+		<field name="section">B</field>
+		<field name="description">Other mining and quarrying n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">9100</field>
+		<field name="section">B</field>
+		<field name="description">Support activities for petroleum and natural gas mining</field>
+	</row>
+
+	<row>
+		<field name="code">9900</field>
+		<field name="section">B</field>
+		<field name="description">Support activities for other mining and quarrying</field>
+	</row>
+
+	<row>
+		<field name="code">10110</field>
+		<field name="section">C</field>
+		<field name="description">Processing and preserving of meat</field>
+	</row>
+
+	<row>
+		<field name="code">10120</field>
+		<field name="section">C</field>
+		<field name="description">Processing and preserving of poultry meat</field>
+	</row>
+
+	<row>
+		<field name="code">10130</field>
+		<field name="section">C</field>
+		<field name="description">Production of meat and poultry meat products</field>
+	</row>
+
+	<row>
+		<field name="code">10200</field>
+		<field name="section">C</field>
+		<field name="description">Processing and preserving of fish, crustaceans and molluscs</field>
+	</row>
+
+	<row>
+		<field name="code">10310</field>
+		<field name="section">C</field>
+		<field name="description">Processing and preserving of potatoes</field>
+	</row>
+
+	<row>
+		<field name="code">10320</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of fruit and vegetable juice</field>
+	</row>
+
+	<row>
+		<field name="code">10390</field>
+		<field name="section">C</field>
+		<field name="description">Other processing and preserving of fruit and vegetables</field>
+	</row>
+
+	<row>
+		<field name="code">10410</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of oils and fats</field>
+	</row>
+
+	<row>
+		<field name="code">10420</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of margarine and similar edible fats</field>
+	</row>
+
+	<row>
+		<field name="code">10511</field>
+		<field name="section">C</field>
+		<field name="description">Liquid milk and cream production</field>
+	</row>
+
+	<row>
+		<field name="code">10512</field>
+		<field name="section">C</field>
+		<field name="description">Butter and cheese production</field>
+	</row>
+
+	<row>
+		<field name="code">10519</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other milk products</field>
+	</row>
+
+	<row>
+		<field name="code">10520</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of ice cream</field>
+	</row>
+
+	<row>
+		<field name="code">10611</field>
+		<field name="section">C</field>
+		<field name="description">Grain milling</field>
+	</row>
+
+	<row>
+		<field name="code">10612</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of breakfast cereals and cereals-based food</field>
+	</row>
+
+	<row>
+		<field name="code">10620</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of starches and starch products</field>
+	</row>
+
+	<row>
+		<field name="code">10710</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of bread; manufacture of fresh pastry goods and cakes</field>
+	</row>
+
+	<row>
+		<field name="code">10720</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes</field>
+	</row>
+
+	<row>
+		<field name="code">10730</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of macaroni, noodles, couscous and similar farinaceous products</field>
+	</row>
+
+	<row>
+		<field name="code">10810</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of sugar</field>
+	</row>
+
+	<row>
+		<field name="code">10821</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of cocoa and chocolate confectionery</field>
+	</row>
+
+	<row>
+		<field name="code">10822</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of sugar confectionery</field>
+	</row>
+
+	<row>
+		<field name="code">10831</field>
+		<field name="section">C</field>
+		<field name="description">Tea processing</field>
+	</row>
+
+	<row>
+		<field name="code">10832</field>
+		<field name="section">C</field>
+		<field name="description">Production of coffee and coffee substitutes</field>
+	</row>
+
+	<row>
+		<field name="code">10840</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of condiments and seasonings</field>
+	</row>
+
+	<row>
+		<field name="code">10850</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of prepared meals and dishes</field>
+	</row>
+
+	<row>
+		<field name="code">10860</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of homogenized food preparations and dietetic food</field>
+	</row>
+
+	<row>
+		<field name="code">10890</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other food products n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">10910</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of prepared feeds for farm animals</field>
+	</row>
+
+	<row>
+		<field name="code">10920</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of prepared pet foods</field>
+	</row>
+
+	<row>
+		<field name="code">11010</field>
+		<field name="section">C</field>
+		<field name="description">Distilling, rectifying and blending of spirits</field>
+	</row>
+
+	<row>
+		<field name="code">11020</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of wine from grape</field>
+	</row>
+
+	<row>
+		<field name="code">11030</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of cider and other fruit wines</field>
+	</row>
+
+	<row>
+		<field name="code">11040</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other non-distilled fermented beverages</field>
+	</row>
+
+	<row>
+		<field name="code">11050</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of beer</field>
+	</row>
+
+	<row>
+		<field name="code">11060</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of malt</field>
+	</row>
+
+	<row>
+		<field name="code">11070</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of soft drinks; production of mineral waters and other bottled waters</field>
+	</row>
+
+	<row>
+		<field name="code">12000</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of tobacco products</field>
+	</row>
+
+	<row>
+		<field name="code">13100</field>
+		<field name="section">C</field>
+		<field name="description">Preparation and spinning of textile fibres</field>
+	</row>
+
+	<row>
+		<field name="code">13200</field>
+		<field name="section">C</field>
+		<field name="description">Weaving of textiles</field>
+	</row>
+
+	<row>
+		<field name="code">13300</field>
+		<field name="section">C</field>
+		<field name="description">Finishing of textiles</field>
+	</row>
+
+	<row>
+		<field name="code">13910</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of knitted and crocheted fabrics</field>
+	</row>
+
+	<row>
+		<field name="code">13921</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of soft furnishings</field>
+	</row>
+
+	<row>
+		<field name="code">13922</field>
+		<field name="section">C</field>
+		<field name="description">manufacture of canvas goods, sacks, etc.</field>
+	</row>
+
+	<row>
+		<field name="code">13923</field>
+		<field name="section">C</field>
+		<field name="description">manufacture of household textiles</field>
+	</row>
+
+	<row>
+		<field name="code">13931</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of woven or tufted carpets and rugs</field>
+	</row>
+
+	<row>
+		<field name="code">13939</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other carpets and rugs</field>
+	</row>
+
+	<row>
+		<field name="code">13940</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of cordage, rope, twine and netting</field>
+	</row>
+
+	<row>
+		<field name="code">13950</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of non-wovens and articles made from non-wovens, except apparel</field>
+	</row>
+
+	<row>
+		<field name="code">13960</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other technical and industrial textiles</field>
+	</row>
+
+	<row>
+		<field name="code">13990</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other textiles n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">14110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of leather clothes</field>
+	</row>
+
+	<row>
+		<field name="code">14120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of workwear</field>
+	</row>
+
+	<row>
+		<field name="code">14131</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other men's outerwear</field>
+	</row>
+
+	<row>
+		<field name="code">14132</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other women's outerwear</field>
+	</row>
+
+	<row>
+		<field name="code">14141</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of men's underwear</field>
+	</row>
+
+	<row>
+		<field name="code">14142</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of women's underwear</field>
+	</row>
+
+	<row>
+		<field name="code">14190</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other wearing apparel and accessories n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">14200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of articles of fur</field>
+	</row>
+
+	<row>
+		<field name="code">14310</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of knitted and crocheted hosiery</field>
+	</row>
+
+	<row>
+		<field name="code">14390</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other knitted and crocheted apparel</field>
+	</row>
+
+	<row>
+		<field name="code">15110</field>
+		<field name="section">C</field>
+		<field name="description">Tanning and dressing of leather; dressing and dyeing of fur</field>
+	</row>
+
+	<row>
+		<field name="code">15120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of luggage, handbags and the like, saddlery and harness</field>
+	</row>
+
+	<row>
+		<field name="code">15200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of footwear</field>
+	</row>
+
+	<row>
+		<field name="code">16100</field>
+		<field name="section">C</field>
+		<field name="description">Sawmilling and planing of wood</field>
+	</row>
+
+	<row>
+		<field name="code">16210</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of veneer sheets and wood-based panels</field>
+	</row>
+
+	<row>
+		<field name="code">16220</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of assembled parquet floors</field>
+	</row>
+
+	<row>
+		<field name="code">16230</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other builders' carpentry and joinery</field>
+	</row>
+
+	<row>
+		<field name="code">16240</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of wooden containers</field>
+	</row>
+
+	<row>
+		<field name="code">16290</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials</field>
+	</row>
+
+	<row>
+		<field name="code">17110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of pulp</field>
+	</row>
+
+	<row>
+		<field name="code">17120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of paper and paperboard</field>
+	</row>
+
+	<row>
+		<field name="code">17211</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of corrugated paper and paperboard, sacks and bags</field>
+	</row>
+
+	<row>
+		<field name="code">17219</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other paper and paperboard containers</field>
+	</row>
+
+	<row>
+		<field name="code">17220</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of household and sanitary goods and of toilet requisites</field>
+	</row>
+
+	<row>
+		<field name="code">17230</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of paper stationery</field>
+	</row>
+
+	<row>
+		<field name="code">17240</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of wallpaper</field>
+	</row>
+
+	<row>
+		<field name="code">17290</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other articles of paper and paperboard n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">18110</field>
+		<field name="section">C</field>
+		<field name="description">Printing of newspapers</field>
+	</row>
+
+	<row>
+		<field name="code">18121</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of printed labels</field>
+	</row>
+
+	<row>
+		<field name="code">18129</field>
+		<field name="section">C</field>
+		<field name="description">Printing n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">18130</field>
+		<field name="section">C</field>
+		<field name="description">Pre-press and pre-media services</field>
+	</row>
+
+	<row>
+		<field name="code">18140</field>
+		<field name="section">C</field>
+		<field name="description">Binding and related services</field>
+	</row>
+
+	<row>
+		<field name="code">18201</field>
+		<field name="section">C</field>
+		<field name="description">Reproduction of sound recording</field>
+	</row>
+
+	<row>
+		<field name="code">18202</field>
+		<field name="section">C</field>
+		<field name="description">Reproduction of video recording</field>
+	</row>
+
+	<row>
+		<field name="code">18203</field>
+		<field name="section">C</field>
+		<field name="description">Reproduction of computer media</field>
+	</row>
+
+	<row>
+		<field name="code">19100</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of coke oven products</field>
+	</row>
+
+	<row>
+		<field name="code">19201</field>
+		<field name="section">C</field>
+		<field name="description">Mineral oil refining</field>
+	</row>
+
+	<row>
+		<field name="code">19209</field>
+		<field name="section">C</field>
+		<field name="description">Other treatment of petroleum products (excluding petrochemicals manufacture)</field>
+	</row>
+
+	<row>
+		<field name="code">20110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of industrial gases</field>
+	</row>
+
+	<row>
+		<field name="code">20120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of dyes and pigments</field>
+	</row>
+
+	<row>
+		<field name="code">20130</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other inorganic basic chemicals</field>
+	</row>
+
+	<row>
+		<field name="code">20140</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other organic basic chemicals</field>
+	</row>
+
+	<row>
+		<field name="code">20150</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of fertilizers and nitrogen compounds</field>
+	</row>
+
+	<row>
+		<field name="code">20160</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of plastics in primary forms</field>
+	</row>
+
+	<row>
+		<field name="code">20170</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of synthetic rubber in primary forms</field>
+	</row>
+
+	<row>
+		<field name="code">20200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of pesticides and other agrochemical products</field>
+	</row>
+
+	<row>
+		<field name="code">20301</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of paints, varnishes and similar coatings, mastics and sealants</field>
+	</row>
+
+	<row>
+		<field name="code">20302</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of printing ink</field>
+	</row>
+
+	<row>
+		<field name="code">20411</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of soap and detergents</field>
+	</row>
+
+	<row>
+		<field name="code">20412</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of cleaning and polishing preparations</field>
+	</row>
+
+	<row>
+		<field name="code">20420</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of perfumes and toilet preparations</field>
+	</row>
+
+	<row>
+		<field name="code">20510</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of explosives</field>
+	</row>
+
+	<row>
+		<field name="code">20520</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of glues</field>
+	</row>
+
+	<row>
+		<field name="code">20530</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of essential oils</field>
+	</row>
+
+	<row>
+		<field name="code">20590</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other chemical products n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">20600</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of man-made fibres</field>
+	</row>
+
+	<row>
+		<field name="code">21100</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of basic pharmaceutical products</field>
+	</row>
+
+	<row>
+		<field name="code">21200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of pharmaceutical preparations</field>
+	</row>
+
+	<row>
+		<field name="code">22110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres</field>
+	</row>
+
+	<row>
+		<field name="code">22190</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other rubber products</field>
+	</row>
+
+	<row>
+		<field name="code">22210</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of plastic plates, sheets, tubes and profiles</field>
+	</row>
+
+	<row>
+		<field name="code">22220</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of plastic packing goods</field>
+	</row>
+
+	<row>
+		<field name="code">22230</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of builders ware of plastic</field>
+	</row>
+
+	<row>
+		<field name="code">22290</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other plastic products</field>
+	</row>
+
+	<row>
+		<field name="code">23110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of flat glass</field>
+	</row>
+
+	<row>
+		<field name="code">23120</field>
+		<field name="section">C</field>
+		<field name="description">Shaping and processing of flat glass</field>
+	</row>
+
+	<row>
+		<field name="code">23130</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of hollow glass</field>
+	</row>
+
+	<row>
+		<field name="code">23140</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of glass fibres</field>
+	</row>
+
+	<row>
+		<field name="code">23190</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture and processing of other glass, including technical glassware</field>
+	</row>
+
+	<row>
+		<field name="code">23200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of refractory products</field>
+	</row>
+
+	<row>
+		<field name="code">23310</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of ceramic tiles and flags</field>
+	</row>
+
+	<row>
+		<field name="code">23320</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of bricks, tiles and construction products, in baked clay</field>
+	</row>
+
+	<row>
+		<field name="code">23410</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of ceramic household and ornamental articles</field>
+	</row>
+
+	<row>
+		<field name="code">23420</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of ceramic sanitary fixtures</field>
+	</row>
+
+	<row>
+		<field name="code">23430</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of ceramic insulators and insulating fittings</field>
+	</row>
+
+	<row>
+		<field name="code">23440</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other technical ceramic products</field>
+	</row>
+
+	<row>
+		<field name="code">23490</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other ceramic products n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">23510</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of cement</field>
+	</row>
+
+	<row>
+		<field name="code">23520</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of lime and plaster</field>
+	</row>
+
+	<row>
+		<field name="code">23610</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of concrete products for construction purposes</field>
+	</row>
+
+	<row>
+		<field name="code">23620</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of plaster products for construction purposes</field>
+	</row>
+
+	<row>
+		<field name="code">23630</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of ready-mixed concrete</field>
+	</row>
+
+	<row>
+		<field name="code">23640</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of mortars</field>
+	</row>
+
+	<row>
+		<field name="code">23650</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of fibre cement</field>
+	</row>
+
+	<row>
+		<field name="code">23690</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other articles of concrete, plaster and cement</field>
+	</row>
+
+	<row>
+		<field name="code">23700</field>
+		<field name="section">C</field>
+		<field name="description">Cutting, shaping and finishing of stone</field>
+	</row>
+
+	<row>
+		<field name="code">23910</field>
+		<field name="section">C</field>
+		<field name="description">Production of abrasive products</field>
+	</row>
+
+	<row>
+		<field name="code">23990</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other non-metallic mineral products n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">24100</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of basic iron and steel and of ferro-alloys</field>
+	</row>
+
+	<row>
+		<field name="code">24200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of tubes, pipes, hollow profiles and related fittings, of steel</field>
+	</row>
+
+	<row>
+		<field name="code">24310</field>
+		<field name="section">C</field>
+		<field name="description">Cold drawing of bars</field>
+	</row>
+
+	<row>
+		<field name="code">24320</field>
+		<field name="section">C</field>
+		<field name="description">Cold rolling of narrow strip</field>
+	</row>
+
+	<row>
+		<field name="code">24330</field>
+		<field name="section">C</field>
+		<field name="description">Cold forming or folding</field>
+	</row>
+
+	<row>
+		<field name="code">24340</field>
+		<field name="section">C</field>
+		<field name="description">Cold drawing of wire</field>
+	</row>
+
+	<row>
+		<field name="code">24410</field>
+		<field name="section">C</field>
+		<field name="description">Precious metals production</field>
+	</row>
+
+	<row>
+		<field name="code">24420</field>
+		<field name="section">C</field>
+		<field name="description">Aluminium production</field>
+	</row>
+
+	<row>
+		<field name="code">24430</field>
+		<field name="section">C</field>
+		<field name="description">Lead, zinc and tin production</field>
+	</row>
+
+	<row>
+		<field name="code">24440</field>
+		<field name="section">C</field>
+		<field name="description">Copper production</field>
+	</row>
+
+	<row>
+		<field name="code">24450</field>
+		<field name="section">C</field>
+		<field name="description">Other non-ferrous metal production</field>
+	</row>
+
+	<row>
+		<field name="code">24460</field>
+		<field name="section">C</field>
+		<field name="description">Processing of nuclear fuel</field>
+	</row>
+
+	<row>
+		<field name="code">24510</field>
+		<field name="section">C</field>
+		<field name="description">Casting of iron</field>
+	</row>
+
+	<row>
+		<field name="code">24520</field>
+		<field name="section">C</field>
+		<field name="description">Casting of steel</field>
+	</row>
+
+	<row>
+		<field name="code">24530</field>
+		<field name="section">C</field>
+		<field name="description">Casting of light metals</field>
+	</row>
+
+	<row>
+		<field name="code">24540</field>
+		<field name="section">C</field>
+		<field name="description">Casting of other non-ferrous metals</field>
+	</row>
+
+	<row>
+		<field name="code">25110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of metal structures and parts of structures</field>
+	</row>
+
+	<row>
+		<field name="code">25120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of doors and windows of metal</field>
+	</row>
+
+	<row>
+		<field name="code">25210</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of central heating radiators and boilers</field>
+	</row>
+
+	<row>
+		<field name="code">25290</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other tanks, reservoirs and containers of metal</field>
+	</row>
+
+	<row>
+		<field name="code">25300</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of steam generators, except central heating hot water boilers</field>
+	</row>
+
+	<row>
+		<field name="code">25400</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of weapons and ammunition</field>
+	</row>
+
+	<row>
+		<field name="code">25500</field>
+		<field name="section">C</field>
+		<field name="description">Forging, pressing, stamping and roll-forming of metal; powder metallurgy</field>
+	</row>
+
+	<row>
+		<field name="code">25610</field>
+		<field name="section">C</field>
+		<field name="description">Treatment and coating of metals</field>
+	</row>
+
+	<row>
+		<field name="code">25620</field>
+		<field name="section">C</field>
+		<field name="description">Machining</field>
+	</row>
+
+	<row>
+		<field name="code">25710</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of cutlery</field>
+	</row>
+
+	<row>
+		<field name="code">25720</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of locks and hinges</field>
+	</row>
+
+	<row>
+		<field name="code">25730</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of tools</field>
+	</row>
+
+	<row>
+		<field name="code">25910</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of steel drums and similar containers</field>
+	</row>
+
+	<row>
+		<field name="code">25920</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of light metal packaging</field>
+	</row>
+
+	<row>
+		<field name="code">25930</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of wire products, chain and springs</field>
+	</row>
+
+	<row>
+		<field name="code">25940</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of fasteners and screw machine products</field>
+	</row>
+
+	<row>
+		<field name="code">25990</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other fabricated metal products n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">26110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electronic components</field>
+	</row>
+
+	<row>
+		<field name="code">26120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of loaded electronic boards</field>
+	</row>
+
+	<row>
+		<field name="code">26200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of computers and peripheral equipment</field>
+	</row>
+
+	<row>
+		<field name="code">26301</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of telegraph and telephone apparatus and equipment</field>
+	</row>
+
+	<row>
+		<field name="code">26309</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment</field>
+	</row>
+
+	<row>
+		<field name="code">26400</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of consumer electronics</field>
+	</row>
+
+	<row>
+		<field name="code">26511</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electronic measuring, testing etc. equipment, not for industrial process control</field>
+	</row>
+
+	<row>
+		<field name="code">26512</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electronic industrial process control equipment</field>
+	</row>
+
+	<row>
+		<field name="code">26513</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of non-electronic measuring, testing etc. equipment, not for industrial process control</field>
+	</row>
+
+	<row>
+		<field name="code">26514</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of non-electronic industrial process control equipment</field>
+	</row>
+
+	<row>
+		<field name="code">26520</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of watches and clocks</field>
+	</row>
+
+	<row>
+		<field name="code">26600</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of irradiation, electromedical and electrotherapeutic equipment</field>
+	</row>
+
+	<row>
+		<field name="code">26701</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of optical precision instruments</field>
+	</row>
+
+	<row>
+		<field name="code">26702</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of photographic and cinematographic equipment</field>
+	</row>
+
+	<row>
+		<field name="code">26800</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of magnetic and optical media</field>
+	</row>
+
+	<row>
+		<field name="code">27110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electric motors, generators and transformers</field>
+	</row>
+
+	<row>
+		<field name="code">27120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electricity distribution and control apparatus</field>
+	</row>
+
+	<row>
+		<field name="code">27200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of batteries and accumulators</field>
+	</row>
+
+	<row>
+		<field name="code">27310</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of fibre optic cables</field>
+	</row>
+
+	<row>
+		<field name="code">27320</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other electronic and electric wires and cables</field>
+	</row>
+
+	<row>
+		<field name="code">27330</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of wiring devices</field>
+	</row>
+
+	<row>
+		<field name="code">27400</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electric lighting equipment</field>
+	</row>
+
+	<row>
+		<field name="code">27510</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electric domestic appliances</field>
+	</row>
+
+	<row>
+		<field name="code">27520</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of non-electric domestic appliances</field>
+	</row>
+
+	<row>
+		<field name="code">27900</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other electrical equipment</field>
+	</row>
+
+	<row>
+		<field name="code">28110</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of engines and turbines, except aircraft, vehicle and cycle engines</field>
+	</row>
+
+	<row>
+		<field name="code">28120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of fluid power equipment</field>
+	</row>
+
+	<row>
+		<field name="code">28131</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of pumps</field>
+	</row>
+
+	<row>
+		<field name="code">28132</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of compressors</field>
+	</row>
+
+	<row>
+		<field name="code">28140</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of taps and valves</field>
+	</row>
+
+	<row>
+		<field name="code">28150</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of bearings, gears, gearing and driving elements</field>
+	</row>
+
+	<row>
+		<field name="code">28210</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of ovens, furnaces and furnace burners</field>
+	</row>
+
+	<row>
+		<field name="code">28220</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of lifting and handling equipment</field>
+	</row>
+
+	<row>
+		<field name="code">28230</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of office machinery and equipment (except computers and peripheral equipment)</field>
+	</row>
+
+	<row>
+		<field name="code">28240</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of power-driven hand tools</field>
+	</row>
+
+	<row>
+		<field name="code">28250</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of non-domestic cooling and ventilation equipment</field>
+	</row>
+
+	<row>
+		<field name="code">28290</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other general-purpose machinery n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">28301</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of agricultural tractors</field>
+	</row>
+
+	<row>
+		<field name="code">28302</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of agricultural and forestry machinery other than tractors</field>
+	</row>
+
+	<row>
+		<field name="code">28410</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of metal forming machinery</field>
+	</row>
+
+	<row>
+		<field name="code">28490</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other machine tools</field>
+	</row>
+
+	<row>
+		<field name="code">28910</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of machinery for metallurgy</field>
+	</row>
+
+	<row>
+		<field name="code">28921</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of machinery for mining</field>
+	</row>
+
+	<row>
+		<field name="code">28922</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of earthmoving equipment</field>
+	</row>
+
+	<row>
+		<field name="code">28923</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of equipment for concrete crushing and screening and roadworks</field>
+	</row>
+
+	<row>
+		<field name="code">28930</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of machinery for food, beverage and tobacco processing</field>
+	</row>
+
+	<row>
+		<field name="code">28940</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of machinery for textile, apparel and leather production</field>
+	</row>
+
+	<row>
+		<field name="code">28950</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of machinery for paper and paperboard production</field>
+	</row>
+
+	<row>
+		<field name="code">28960</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of plastics and rubber machinery</field>
+	</row>
+
+	<row>
+		<field name="code">28990</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other special-purpose machinery n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">29100</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of motor vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">29201</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of bodies (coachwork) for motor vehicles (except caravans)</field>
+	</row>
+
+	<row>
+		<field name="code">29202</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of trailers and semi-trailers</field>
+	</row>
+
+	<row>
+		<field name="code">29203</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of caravans</field>
+	</row>
+
+	<row>
+		<field name="code">29310</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of electrical and electronic equipment for motor vehicles and their engines</field>
+	</row>
+
+	<row>
+		<field name="code">29320</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other parts and accessories for motor vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">30110</field>
+		<field name="section">C</field>
+		<field name="description">Building of ships and floating structures</field>
+	</row>
+
+	<row>
+		<field name="code">30120</field>
+		<field name="section">C</field>
+		<field name="description">Building of pleasure and sporting boats</field>
+	</row>
+
+	<row>
+		<field name="code">30200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of railway locomotives and rolling stock</field>
+	</row>
+
+	<row>
+		<field name="code">30300</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of air and spacecraft and related machinery</field>
+	</row>
+
+	<row>
+		<field name="code">30400</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of military fighting vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">30910</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of motorcycles</field>
+	</row>
+
+	<row>
+		<field name="code">30920</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of bicycles and invalid carriages</field>
+	</row>
+
+	<row>
+		<field name="code">30990</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other transport equipment n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">31010</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of office and shop furniture</field>
+	</row>
+
+	<row>
+		<field name="code">31020</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of kitchen furniture</field>
+	</row>
+
+	<row>
+		<field name="code">31030</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of mattresses</field>
+	</row>
+
+	<row>
+		<field name="code">31090</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other furniture</field>
+	</row>
+
+	<row>
+		<field name="code">32110</field>
+		<field name="section">C</field>
+		<field name="description">Striking of coins</field>
+	</row>
+
+	<row>
+		<field name="code">32120</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of jewellery and related articles</field>
+	</row>
+
+	<row>
+		<field name="code">32130</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of imitation jewellery and related articles</field>
+	</row>
+
+	<row>
+		<field name="code">32200</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of musical instruments</field>
+	</row>
+
+	<row>
+		<field name="code">32300</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of sports goods</field>
+	</row>
+
+	<row>
+		<field name="code">32401</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of professional and arcade games and toys</field>
+	</row>
+
+	<row>
+		<field name="code">32409</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of other games and toys, n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">32500</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of medical and dental instruments and supplies</field>
+	</row>
+
+	<row>
+		<field name="code">32910</field>
+		<field name="section">C</field>
+		<field name="description">Manufacture of brooms and brushes</field>
+	</row>
+
+	<row>
+		<field name="code">32990</field>
+		<field name="section">C</field>
+		<field name="description">Other manufacturing n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">33110</field>
+		<field name="section">C</field>
+		<field name="description">Repair of fabricated metal products</field>
+	</row>
+
+	<row>
+		<field name="code">33120</field>
+		<field name="section">C</field>
+		<field name="description">Repair of machinery</field>
+	</row>
+
+	<row>
+		<field name="code">33130</field>
+		<field name="section">C</field>
+		<field name="description">Repair of electronic and optical equipment</field>
+	</row>
+
+	<row>
+		<field name="code">33140</field>
+		<field name="section">C</field>
+		<field name="description">Repair of electrical equipment</field>
+	</row>
+
+	<row>
+		<field name="code">33150</field>
+		<field name="section">C</field>
+		<field name="description">Repair and maintenance of ships and boats</field>
+	</row>
+
+	<row>
+		<field name="code">33160</field>
+		<field name="section">C</field>
+		<field name="description">Repair and maintenance of aircraft and spacecraft</field>
+	</row>
+
+	<row>
+		<field name="code">33170</field>
+		<field name="section">C</field>
+		<field name="description">Repair and maintenance of other transport equipment n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">33190</field>
+		<field name="section">C</field>
+		<field name="description">Repair of other equipment</field>
+	</row>
+
+	<row>
+		<field name="code">33200</field>
+		<field name="section">C</field>
+		<field name="description">Installation of industrial machinery and equipment</field>
+	</row>
+
+	<row>
+		<field name="code">35110</field>
+		<field name="section">D</field>
+		<field name="description">Production of electricity</field>
+	</row>
+
+	<row>
+		<field name="code">35120</field>
+		<field name="section">D</field>
+		<field name="description">Transmission of electricity</field>
+	</row>
+
+	<row>
+		<field name="code">35130</field>
+		<field name="section">D</field>
+		<field name="description">Distribution of electricity</field>
+	</row>
+
+	<row>
+		<field name="code">35140</field>
+		<field name="section">D</field>
+		<field name="description">Trade of electricity</field>
+	</row>
+
+	<row>
+		<field name="code">35210</field>
+		<field name="section">D</field>
+		<field name="description">Manufacture of gas</field>
+	</row>
+
+	<row>
+		<field name="code">35220</field>
+		<field name="section">D</field>
+		<field name="description">Distribution of gaseous fuels through mains</field>
+	</row>
+
+	<row>
+		<field name="code">35230</field>
+		<field name="section">D</field>
+		<field name="description">Trade of gas through mains</field>
+	</row>
+
+	<row>
+		<field name="code">35300</field>
+		<field name="section">D</field>
+		<field name="description">Steam and air conditioning supply</field>
+	</row>
+
+	<row>
+		<field name="code">36000</field>
+		<field name="section">E</field>
+		<field name="description">Water collection, treatment and supply</field>
+	</row>
+
+	<row>
+		<field name="code">37000</field>
+		<field name="section">E</field>
+		<field name="description">Sewerage</field>
+	</row>
+
+	<row>
+		<field name="code">38110</field>
+		<field name="section">E</field>
+		<field name="description">Collection of non-hazardous waste</field>
+	</row>
+
+	<row>
+		<field name="code">38120</field>
+		<field name="section">E</field>
+		<field name="description">Collection of hazardous waste</field>
+	</row>
+
+	<row>
+		<field name="code">38210</field>
+		<field name="section">E</field>
+		<field name="description">Treatment and disposal of non-hazardous waste</field>
+	</row>
+
+	<row>
+		<field name="code">38220</field>
+		<field name="section">E</field>
+		<field name="description">Treatment and disposal of hazardous waste</field>
+	</row>
+
+	<row>
+		<field name="code">38310</field>
+		<field name="section">E</field>
+		<field name="description">Dismantling of wrecks</field>
+	</row>
+
+	<row>
+		<field name="code">38320</field>
+		<field name="section">E</field>
+		<field name="description">Recovery of sorted materials</field>
+	</row>
+
+	<row>
+		<field name="code">39000</field>
+		<field name="section">E</field>
+		<field name="description">Remediation activities and other waste management services</field>
+	</row>
+
+	<row>
+		<field name="code">41100</field>
+		<field name="section">F</field>
+		<field name="description">Development of building projects</field>
+	</row>
+
+	<row>
+		<field name="code">41201</field>
+		<field name="section">F</field>
+		<field name="description">Construction of commercial buildings</field>
+	</row>
+
+	<row>
+		<field name="code">41202</field>
+		<field name="section">F</field>
+		<field name="description">Construction of domestic buildings</field>
+	</row>
+
+	<row>
+		<field name="code">42110</field>
+		<field name="section">F</field>
+		<field name="description">Construction of roads and motorways</field>
+	</row>
+
+	<row>
+		<field name="code">42120</field>
+		<field name="section">F</field>
+		<field name="description">Construction of railways and underground railways</field>
+	</row>
+
+	<row>
+		<field name="code">42130</field>
+		<field name="section">F</field>
+		<field name="description">Construction of bridges and tunnels</field>
+	</row>
+
+	<row>
+		<field name="code">42210</field>
+		<field name="section">F</field>
+		<field name="description">Construction of utility projects for fluids</field>
+	</row>
+
+	<row>
+		<field name="code">42220</field>
+		<field name="section">F</field>
+		<field name="description">Construction of utility projects for electricity and telecommunications</field>
+	</row>
+
+	<row>
+		<field name="code">42910</field>
+		<field name="section">F</field>
+		<field name="description">Construction of water projects</field>
+	</row>
+
+	<row>
+		<field name="code">42990</field>
+		<field name="section">F</field>
+		<field name="description">Construction of other civil engineering projects n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">43110</field>
+		<field name="section">F</field>
+		<field name="description">Demolition</field>
+	</row>
+
+	<row>
+		<field name="code">43120</field>
+		<field name="section">F</field>
+		<field name="description">Site preparation</field>
+	</row>
+
+	<row>
+		<field name="code">43130</field>
+		<field name="section">F</field>
+		<field name="description">Test drilling and boring</field>
+	</row>
+
+	<row>
+		<field name="code">43210</field>
+		<field name="section">F</field>
+		<field name="description">Electrical installation</field>
+	</row>
+
+	<row>
+		<field name="code">43220</field>
+		<field name="section">F</field>
+		<field name="description">Plumbing, heat and air-conditioning installation</field>
+	</row>
+
+	<row>
+		<field name="code">43290</field>
+		<field name="section">F</field>
+		<field name="description">Other construction installation</field>
+	</row>
+
+	<row>
+		<field name="code">43310</field>
+		<field name="section">F</field>
+		<field name="description">Plastering</field>
+	</row>
+
+	<row>
+		<field name="code">43320</field>
+		<field name="section">F</field>
+		<field name="description">Joinery installation</field>
+	</row>
+
+	<row>
+		<field name="code">43330</field>
+		<field name="section">F</field>
+		<field name="description">Floor and wall covering</field>
+	</row>
+
+	<row>
+		<field name="code">43341</field>
+		<field name="section">F</field>
+		<field name="description">Painting</field>
+	</row>
+
+	<row>
+		<field name="code">43342</field>
+		<field name="section">F</field>
+		<field name="description">Glazing</field>
+	</row>
+
+	<row>
+		<field name="code">43390</field>
+		<field name="section">F</field>
+		<field name="description">Other building completion and finishing</field>
+	</row>
+
+	<row>
+		<field name="code">43910</field>
+		<field name="section">F</field>
+		<field name="description">Roofing activities</field>
+	</row>
+
+	<row>
+		<field name="code">43991</field>
+		<field name="section">F</field>
+		<field name="description">Scaffold erection</field>
+	</row>
+
+	<row>
+		<field name="code">43999</field>
+		<field name="section">F</field>
+		<field name="description">Other specialised construction activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">45111</field>
+		<field name="section">G</field>
+		<field name="description">Sale of new cars and light motor vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">45112</field>
+		<field name="section">G</field>
+		<field name="description">Sale of used cars and light motor vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">45190</field>
+		<field name="section">G</field>
+		<field name="description">Sale of other motor vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">45200</field>
+		<field name="section">G</field>
+		<field name="description">Maintenance and repair of motor vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">45310</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale trade of motor vehicle parts and accessories</field>
+	</row>
+
+	<row>
+		<field name="code">45320</field>
+		<field name="section">G</field>
+		<field name="description">Retail trade of motor vehicle parts and accessories</field>
+	</row>
+
+	<row>
+		<field name="code">45400</field>
+		<field name="section">G</field>
+		<field name="description">Sale, maintenance and repair of motorcycles and related parts and accessories</field>
+	</row>
+
+	<row>
+		<field name="code">46110</field>
+		<field name="section">G</field>
+		<field name="description">Agents selling agricultural raw materials, livestock, textile raw materials and semi-finished goods</field>
+	</row>
+
+	<row>
+		<field name="code">46120</field>
+		<field name="section">G</field>
+		<field name="description">Agents involved in the sale of fuels, ores, metals and industrial chemicals</field>
+	</row>
+
+	<row>
+		<field name="code">46130</field>
+		<field name="section">G</field>
+		<field name="description">Agents involved in the sale of timber and building materials</field>
+	</row>
+
+	<row>
+		<field name="code">46140</field>
+		<field name="section">G</field>
+		<field name="description">Agents involved in the sale of machinery, industrial equipment, ships and aircraft</field>
+	</row>
+
+	<row>
+		<field name="code">46150</field>
+		<field name="section">G</field>
+		<field name="description">Agents involved in the sale of furniture, household goods, hardware and ironmongery</field>
+	</row>
+
+	<row>
+		<field name="code">46160</field>
+		<field name="section">G</field>
+		<field name="description">Agents involved in the sale of textiles, clothing, fur, footwear and leather goods</field>
+	</row>
+
+	<row>
+		<field name="code">46170</field>
+		<field name="section">G</field>
+		<field name="description">Agents involved in the sale of food, beverages and tobacco</field>
+	</row>
+
+	<row>
+		<field name="code">46180</field>
+		<field name="section">G</field>
+		<field name="description">Agents specialised in the sale of other particular products</field>
+	</row>
+
+	<row>
+		<field name="code">46190</field>
+		<field name="section">G</field>
+		<field name="description">Agents involved in the sale of a variety of goods</field>
+	</row>
+
+	<row>
+		<field name="code">46210</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of grain, unmanufactured tobacco, seeds and animal feeds</field>
+	</row>
+
+	<row>
+		<field name="code">46220</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of flowers and plants</field>
+	</row>
+
+	<row>
+		<field name="code">46230</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of live animals</field>
+	</row>
+
+	<row>
+		<field name="code">46240</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of hides, skins and leather</field>
+	</row>
+
+	<row>
+		<field name="code">46310</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of fruit and vegetables</field>
+	</row>
+
+	<row>
+		<field name="code">46320</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of meat and meat products</field>
+	</row>
+
+	<row>
+		<field name="code">46330</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of dairy products, eggs and edible oils and fats</field>
+	</row>
+
+	<row>
+		<field name="code">46341</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of fruit and vegetable juices, mineral water and soft drinks</field>
+	</row>
+
+	<row>
+		<field name="code">46342</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of wine, beer, spirits and other alcoholic beverages</field>
+	</row>
+
+	<row>
+		<field name="code">46350</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of tobacco products</field>
+	</row>
+
+	<row>
+		<field name="code">46360</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of sugar and chocolate and sugar confectionery</field>
+	</row>
+
+	<row>
+		<field name="code">46370</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of coffee, tea, cocoa and spices</field>
+	</row>
+
+	<row>
+		<field name="code">46380</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of other food, including fish, crustaceans and molluscs</field>
+	</row>
+
+	<row>
+		<field name="code">46390</field>
+		<field name="section">G</field>
+		<field name="description">Non-specialised wholesale of food, beverages and tobacco</field>
+	</row>
+
+	<row>
+		<field name="code">46410</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of textiles</field>
+	</row>
+
+	<row>
+		<field name="code">46420</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of clothing and footwear</field>
+	</row>
+
+	<row>
+		<field name="code">46431</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played</field>
+	</row>
+
+	<row>
+		<field name="code">46439</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of radio, television goods &amp;amp; electrical household appliances (other than records, tapes, CD's &amp;amp; video tapes and the equipment used for playing them) </field>
+	</row>
+
+	<row>
+		<field name="code">46440</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of china and glassware and cleaning materials</field>
+	</row>
+
+	<row>
+		<field name="code">46450</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of perfume and cosmetics</field>
+	</row>
+
+	<row>
+		<field name="code">46460</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of pharmaceutical goods</field>
+	</row>
+
+	<row>
+		<field name="code">46470</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of furniture, carpets and lighting equipment</field>
+	</row>
+
+	<row>
+		<field name="code">46480</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of watches and jewellery</field>
+	</row>
+
+	<row>
+		<field name="code">46491</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of musical instruments</field>
+	</row>
+
+	<row>
+		<field name="code">46499</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of household goods (other than musical instruments) n.e.c</field>
+	</row>
+
+	<row>
+		<field name="code">46510</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of computers, computer peripheral equipment and software</field>
+	</row>
+
+	<row>
+		<field name="code">46520</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of electronic and telecommunications equipment and parts</field>
+	</row>
+
+	<row>
+		<field name="code">46610</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of agricultural machinery, equipment and supplies</field>
+	</row>
+
+	<row>
+		<field name="code">46620</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of machine tools</field>
+	</row>
+
+	<row>
+		<field name="code">46630</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of mining, construction and civil engineering machinery</field>
+	</row>
+
+	<row>
+		<field name="code">46640</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of machinery for the textile industry and of sewing and knitting machines</field>
+	</row>
+
+	<row>
+		<field name="code">46650</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of office furniture</field>
+	</row>
+
+	<row>
+		<field name="code">46660</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of other office machinery and equipment</field>
+	</row>
+
+	<row>
+		<field name="code">46690</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of other machinery and equipment</field>
+	</row>
+
+	<row>
+		<field name="code">46711</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of petroleum and petroleum products</field>
+	</row>
+
+	<row>
+		<field name="code">46719</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of other fuels and related products</field>
+	</row>
+
+	<row>
+		<field name="code">46720</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of metals and metal ores</field>
+	</row>
+
+	<row>
+		<field name="code">46730</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of wood, construction materials and sanitary equipment</field>
+	</row>
+
+	<row>
+		<field name="code">46740</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of hardware, plumbing and heating equipment and supplies</field>
+	</row>
+
+	<row>
+		<field name="code">46750</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of chemical products</field>
+	</row>
+
+	<row>
+		<field name="code">46760</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of other intermediate products</field>
+	</row>
+
+	<row>
+		<field name="code">46770</field>
+		<field name="section">G</field>
+		<field name="description">Wholesale of waste and scrap</field>
+	</row>
+
+	<row>
+		<field name="code">46900</field>
+		<field name="section">G</field>
+		<field name="description">Non-specialised wholesale trade</field>
+	</row>
+
+	<row>
+		<field name="code">47110</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale in non-specialised stores with food, beverages or tobacco predominating</field>
+	</row>
+
+	<row>
+		<field name="code">47190</field>
+		<field name="section">G</field>
+		<field name="description">Other retail sale in non-specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47210</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of fruit and vegetables in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47220</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of meat and meat products in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47230</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of fish, crustaceans and molluscs in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47240</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47250</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of beverages in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47260</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of tobacco products in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47290</field>
+		<field name="section">G</field>
+		<field name="description">Other retail sale of food in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47300</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of automotive fuel in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47410</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of computers, peripheral units and software in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47421</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of mobile telephones</field>
+	</row>
+
+	<row>
+		<field name="code">47429</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of telecommunications equipment other than mobile telephones</field>
+	</row>
+
+	<row>
+		<field name="code">47430</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of audio and video equipment in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47510</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of textiles in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47520</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of hardware, paints and glass in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47530</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of carpets, rugs, wall and floor coverings in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47540</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of electrical household appliances in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47591</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of musical instruments and scores</field>
+	</row>
+
+	<row>
+		<field name="code">47599</field>
+		<field name="section">G</field>
+		<field name="description">Retail of furniture, lighting, and similar (not musical instruments or scores) in specialised store</field>
+	</row>
+
+	<row>
+		<field name="code">47610</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of books in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47620</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of newspapers and stationery in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47630</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of music and video recordings in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47640</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of sports goods, fishing gear, camping goods, boats and bicycles</field>
+	</row>
+
+	<row>
+		<field name="code">47650</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of games and toys in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47710</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of clothing in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47721</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of footwear in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47722</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of leather goods in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47730</field>
+		<field name="section">G</field>
+		<field name="description">Dispensing chemist in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47741</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of hearing aids</field>
+	</row>
+
+	<row>
+		<field name="code">47749</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">47750</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of cosmetic and toilet articles in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47760</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47770</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of watches and jewellery in specialised stores</field>
+	</row>
+
+	<row>
+		<field name="code">47781</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale in commercial art galleries</field>
+	</row>
+
+	<row>
+		<field name="code">47782</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale by opticians</field>
+	</row>
+
+	<row>
+		<field name="code">47789</field>
+		<field name="section">G</field>
+		<field name="description">Other retail sale of new goods in specialised stores (not commercial art galleries and opticians)</field>
+	</row>
+
+	<row>
+		<field name="code">47791</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of antiques including antique books in stores</field>
+	</row>
+
+	<row>
+		<field name="code">47799</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale of other second-hand goods in stores (not incl. antiques)</field>
+	</row>
+
+	<row>
+		<field name="code">47810</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale via stalls and markets of food, beverages and tobacco products</field>
+	</row>
+
+	<row>
+		<field name="code">47820</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale via stalls and markets of textiles, clothing and footwear</field>
+	</row>
+
+	<row>
+		<field name="code">47890</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale via stalls and markets of other goods</field>
+	</row>
+
+	<row>
+		<field name="code">47910</field>
+		<field name="section">G</field>
+		<field name="description">Retail sale via mail order houses or via Internet</field>
+	</row>
+
+	<row>
+		<field name="code">47990</field>
+		<field name="section">G</field>
+		<field name="description">Other retail sale not in stores, stalls or markets</field>
+	</row>
+
+	<row>
+		<field name="code">49100</field>
+		<field name="section">H</field>
+		<field name="description">Passenger rail transport, interurban</field>
+	</row>
+
+	<row>
+		<field name="code">49200</field>
+		<field name="section">H</field>
+		<field name="description">Freight rail transport</field>
+	</row>
+
+	<row>
+		<field name="code">49311</field>
+		<field name="section">H</field>
+		<field name="description">Urban and suburban passenger railway transportation by underground, metro and similar systems</field>
+	</row>
+
+	<row>
+		<field name="code">49319</field>
+		<field name="section">H</field>
+		<field name="description">Other urban, suburban or metropolitan passenger land transport (not underground, metro or similar)</field>
+	</row>
+
+	<row>
+		<field name="code">49320</field>
+		<field name="section">H</field>
+		<field name="description">Taxi operation</field>
+	</row>
+
+	<row>
+		<field name="code">49390</field>
+		<field name="section">H</field>
+		<field name="description">Other passenger land transport</field>
+	</row>
+
+	<row>
+		<field name="code">49410</field>
+		<field name="section">H</field>
+		<field name="description">Freight transport by road</field>
+	</row>
+
+	<row>
+		<field name="code">49420</field>
+		<field name="section">H</field>
+		<field name="description">Removal services</field>
+	</row>
+
+	<row>
+		<field name="code">49500</field>
+		<field name="section">H</field>
+		<field name="description">Transport via pipeline</field>
+	</row>
+
+	<row>
+		<field name="code">50100</field>
+		<field name="section">H</field>
+		<field name="description">Sea and coastal passenger water transport</field>
+	</row>
+
+	<row>
+		<field name="code">50200</field>
+		<field name="section">H</field>
+		<field name="description">Sea and coastal freight water transport</field>
+	</row>
+
+	<row>
+		<field name="code">50300</field>
+		<field name="section">H</field>
+		<field name="description">Inland passenger water transport</field>
+	</row>
+
+	<row>
+		<field name="code">50400</field>
+		<field name="section">H</field>
+		<field name="description">Inland freight water transport</field>
+	</row>
+
+	<row>
+		<field name="code">51101</field>
+		<field name="section">H</field>
+		<field name="description">Scheduled passenger air transport</field>
+	</row>
+
+	<row>
+		<field name="code">51102</field>
+		<field name="section">H</field>
+		<field name="description">Non-scheduled passenger air transport</field>
+	</row>
+
+	<row>
+		<field name="code">51210</field>
+		<field name="section">H</field>
+		<field name="description">Freight air transport</field>
+	</row>
+
+	<row>
+		<field name="code">51220</field>
+		<field name="section">H</field>
+		<field name="description">Space transport</field>
+	</row>
+
+	<row>
+		<field name="code">52101</field>
+		<field name="section">H</field>
+		<field name="description">Operation of warehousing and storage facilities for water transport activities</field>
+	</row>
+
+	<row>
+		<field name="code">52102</field>
+		<field name="section">H</field>
+		<field name="description">Operation of warehousing and storage facilities for air transport activities</field>
+	</row>
+
+	<row>
+		<field name="code">52103</field>
+		<field name="section">H</field>
+		<field name="description">Operation of warehousing and storage facilities for land transport activities</field>
+	</row>
+
+	<row>
+		<field name="code">52211</field>
+		<field name="section">H</field>
+		<field name="description">Operation of rail freight terminals</field>
+	</row>
+
+	<row>
+		<field name="code">52212</field>
+		<field name="section">H</field>
+		<field name="description">Operation of rail passenger facilities at railway stations</field>
+	</row>
+
+	<row>
+		<field name="code">52213</field>
+		<field name="section">H</field>
+		<field name="description">Operation of bus and coach passenger facilities at bus and coach stations</field>
+	</row>
+
+	<row>
+		<field name="code">52219</field>
+		<field name="section">H</field>
+		<field name="description">Other service activities incidental to land transportation, n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">52220</field>
+		<field name="section">H</field>
+		<field name="description">Service activities incidental to water transportation</field>
+	</row>
+
+	<row>
+		<field name="code">52230</field>
+		<field name="section">H</field>
+		<field name="description">Service activities incidental to air transportation</field>
+	</row>
+
+	<row>
+		<field name="code">52241</field>
+		<field name="section">H</field>
+		<field name="description">Cargo handling for water transport activities</field>
+	</row>
+
+	<row>
+		<field name="code">52242</field>
+		<field name="section">H</field>
+		<field name="description">Cargo handling for air transport activities</field>
+	</row>
+
+	<row>
+		<field name="code">52243</field>
+		<field name="section">H</field>
+		<field name="description">Cargo handling for land transport activities</field>
+	</row>
+
+	<row>
+		<field name="code">52290</field>
+		<field name="section">H</field>
+		<field name="description">Other transportation support activities</field>
+	</row>
+
+	<row>
+		<field name="code">53100</field>
+		<field name="section">H</field>
+		<field name="description">Postal activities under universal service obligation</field>
+	</row>
+
+	<row>
+		<field name="code">53201</field>
+		<field name="section">H</field>
+		<field name="description">Licensed carriers</field>
+	</row>
+
+	<row>
+		<field name="code">53202</field>
+		<field name="section">H</field>
+		<field name="description">Unlicensed carriers</field>
+	</row>
+
+	<row>
+		<field name="code">55100</field>
+		<field name="section">I</field>
+		<field name="description">Hotels and similar accommodation</field>
+	</row>
+
+	<row>
+		<field name="code">55201</field>
+		<field name="section">I</field>
+		<field name="description">Holiday centres and villages</field>
+	</row>
+
+	<row>
+		<field name="code">55202</field>
+		<field name="section">I</field>
+		<field name="description">Youth hostels</field>
+	</row>
+
+	<row>
+		<field name="code">55209</field>
+		<field name="section">I</field>
+		<field name="description">Other holiday and other collective accommodation</field>
+	</row>
+
+	<row>
+		<field name="code">55300</field>
+		<field name="section">I</field>
+		<field name="description">Recreational vehicle parks, trailer parks and camping grounds</field>
+	</row>
+
+	<row>
+		<field name="code">55900</field>
+		<field name="section">I</field>
+		<field name="description">Other accommodation</field>
+	</row>
+
+	<row>
+		<field name="code">56101</field>
+		<field name="section">I</field>
+		<field name="description">Licenced restaurants</field>
+	</row>
+
+	<row>
+		<field name="code">56102</field>
+		<field name="section">I</field>
+		<field name="description">Unlicenced restaurants and cafes</field>
+	</row>
+
+	<row>
+		<field name="code">56103</field>
+		<field name="section">I</field>
+		<field name="description">Take-away food shops and mobile food stands</field>
+	</row>
+
+	<row>
+		<field name="code">56210</field>
+		<field name="section">I</field>
+		<field name="description">Event catering activities</field>
+	</row>
+
+	<row>
+		<field name="code">56290</field>
+		<field name="section">I</field>
+		<field name="description">Other food services</field>
+	</row>
+
+	<row>
+		<field name="code">56301</field>
+		<field name="section">I</field>
+		<field name="description">Licenced clubs</field>
+	</row>
+
+	<row>
+		<field name="code">56302</field>
+		<field name="section">I</field>
+		<field name="description">Public houses and bars</field>
+	</row>
+
+	<row>
+		<field name="code">58110</field>
+		<field name="section">J</field>
+		<field name="description">Book publishing</field>
+	</row>
+
+	<row>
+		<field name="code">58120</field>
+		<field name="section">J</field>
+		<field name="description">Publishing of directories and mailing lists</field>
+	</row>
+
+	<row>
+		<field name="code">58130</field>
+		<field name="section">J</field>
+		<field name="description">Publishing of newspapers</field>
+	</row>
+
+	<row>
+		<field name="code">58141</field>
+		<field name="section">J</field>
+		<field name="description">Publishing of learned journals</field>
+	</row>
+
+	<row>
+		<field name="code">58142</field>
+		<field name="section">J</field>
+		<field name="description">Publishing of consumer and business journals and periodicals</field>
+	</row>
+
+	<row>
+		<field name="code">58190</field>
+		<field name="section">J</field>
+		<field name="description">Other publishing activities</field>
+	</row>
+
+	<row>
+		<field name="code">58210</field>
+		<field name="section">J</field>
+		<field name="description">Publishing of computer games</field>
+	</row>
+
+	<row>
+		<field name="code">58290</field>
+		<field name="section">J</field>
+		<field name="description">Other software publishing</field>
+	</row>
+
+	<row>
+		<field name="code">59111</field>
+		<field name="section">J</field>
+		<field name="description">Motion picture production activities</field>
+	</row>
+
+	<row>
+		<field name="code">59112</field>
+		<field name="section">J</field>
+		<field name="description">Video production activities</field>
+	</row>
+
+	<row>
+		<field name="code">59113</field>
+		<field name="section">J</field>
+		<field name="description">Television programme production activities</field>
+	</row>
+
+	<row>
+		<field name="code">59120</field>
+		<field name="section">J</field>
+		<field name="description">Motion picture, video and television programme post-production activities</field>
+	</row>
+
+	<row>
+		<field name="code">59131</field>
+		<field name="section">J</field>
+		<field name="description">Motion picture distribution activities</field>
+	</row>
+
+	<row>
+		<field name="code">59132</field>
+		<field name="section">J</field>
+		<field name="description">Video distribution activities</field>
+	</row>
+
+	<row>
+		<field name="code">59133</field>
+		<field name="section">J</field>
+		<field name="description">Television programme distribution activities</field>
+	</row>
+
+	<row>
+		<field name="code">59140</field>
+		<field name="section">J</field>
+		<field name="description">Motion picture projection activities</field>
+	</row>
+
+	<row>
+		<field name="code">59200</field>
+		<field name="section">J</field>
+		<field name="description">Sound recording and music publishing activities</field>
+	</row>
+
+	<row>
+		<field name="code">60100</field>
+		<field name="section">J</field>
+		<field name="description">Radio broadcasting</field>
+	</row>
+
+	<row>
+		<field name="code">60200</field>
+		<field name="section">J</field>
+		<field name="description">Television programming and broadcasting activities</field>
+	</row>
+
+	<row>
+		<field name="code">61100</field>
+		<field name="section">J</field>
+		<field name="description">Wired telecommunications activities</field>
+	</row>
+
+	<row>
+		<field name="code">61200</field>
+		<field name="section">J</field>
+		<field name="description">Wireless telecommunications activities</field>
+	</row>
+
+	<row>
+		<field name="code">61300</field>
+		<field name="section">J</field>
+		<field name="description">Satellite telecommunications activities</field>
+	</row>
+
+	<row>
+		<field name="code">61900</field>
+		<field name="section">J</field>
+		<field name="description">Other telecommunications activities</field>
+	</row>
+
+	<row>
+		<field name="code">62011</field>
+		<field name="section">J</field>
+		<field name="description">Ready-made interactive leisure and entertainment software development</field>
+	</row>
+
+	<row>
+		<field name="code">62012</field>
+		<field name="section">J</field>
+		<field name="description">Business and domestic software development</field>
+	</row>
+
+	<row>
+		<field name="code">62020</field>
+		<field name="section">J</field>
+		<field name="description">Information technology consultancy activities</field>
+	</row>
+
+	<row>
+		<field name="code">62030</field>
+		<field name="section">J</field>
+		<field name="description">Computer facilities management activities</field>
+	</row>
+
+	<row>
+		<field name="code">62090</field>
+		<field name="section">J</field>
+		<field name="description">Other information technology service activities</field>
+	</row>
+
+	<row>
+		<field name="code">63110</field>
+		<field name="section">J</field>
+		<field name="description">Data processing, hosting and related activities</field>
+	</row>
+
+	<row>
+		<field name="code">63120</field>
+		<field name="section">J</field>
+		<field name="description">Web portals</field>
+	</row>
+
+	<row>
+		<field name="code">63910</field>
+		<field name="section">J</field>
+		<field name="description">News agency activities</field>
+	</row>
+
+	<row>
+		<field name="code">63990</field>
+		<field name="section">J</field>
+		<field name="description">Other information service activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">64110</field>
+		<field name="section">K</field>
+		<field name="description">Central banking</field>
+	</row>
+
+	<row>
+		<field name="code">64191</field>
+		<field name="section">K</field>
+		<field name="description">Banks</field>
+	</row>
+
+	<row>
+		<field name="code">64192</field>
+		<field name="section">K</field>
+		<field name="description">Building societies</field>
+	</row>
+
+	<row>
+		<field name="code">64201</field>
+		<field name="section">K</field>
+		<field name="description">Activities of agricultural holding companies</field>
+	</row>
+
+	<row>
+		<field name="code">64202</field>
+		<field name="section">K</field>
+		<field name="description">Activities of production holding companies</field>
+	</row>
+
+	<row>
+		<field name="code">64203</field>
+		<field name="section">K</field>
+		<field name="description">Activities of construction holding companies</field>
+	</row>
+
+	<row>
+		<field name="code">64204</field>
+		<field name="section">K</field>
+		<field name="description">Activities of distribution holding companies</field>
+	</row>
+
+	<row>
+		<field name="code">64205</field>
+		<field name="section">K</field>
+		<field name="description">Activities of financial services holding companies</field>
+	</row>
+
+	<row>
+		<field name="code">64209</field>
+		<field name="section">K</field>
+		<field name="description">Activities of other holding companies n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">64301</field>
+		<field name="section">K</field>
+		<field name="description">Activities of investment trusts</field>
+	</row>
+
+	<row>
+		<field name="code">64302</field>
+		<field name="section">K</field>
+		<field name="description">Activities of unit trusts</field>
+	</row>
+
+	<row>
+		<field name="code">64303</field>
+		<field name="section">K</field>
+		<field name="description">Activities of venture and development capital companies</field>
+	</row>
+
+	<row>
+		<field name="code">64304</field>
+		<field name="section">K</field>
+		<field name="description">Activities of open-ended investment companies</field>
+	</row>
+
+	<row>
+		<field name="code">64305</field>
+		<field name="section">K</field>
+		<field name="description">Activities of property unit trusts</field>
+	</row>
+
+	<row>
+		<field name="code">64306</field>
+		<field name="section">K</field>
+		<field name="description">Activities of real estate investment trusts</field>
+	</row>
+
+	<row>
+		<field name="code">64910</field>
+		<field name="section">K</field>
+		<field name="description">Financial leasing</field>
+	</row>
+
+	<row>
+		<field name="code">64921</field>
+		<field name="section">K</field>
+		<field name="description">Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors</field>
+	</row>
+
+	<row>
+		<field name="code">64922</field>
+		<field name="section">K</field>
+		<field name="description">Activities of mortgage finance companies</field>
+	</row>
+
+	<row>
+		<field name="code">64929</field>
+		<field name="section">K</field>
+		<field name="description">Other credit granting n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">64991</field>
+		<field name="section">K</field>
+		<field name="description">Security dealing on own account</field>
+	</row>
+
+	<row>
+		<field name="code">64992</field>
+		<field name="section">K</field>
+		<field name="description">Factoring</field>
+	</row>
+
+	<row>
+		<field name="code">64999</field>
+		<field name="section">K</field>
+		<field name="description">Financial intermediation not elsewhere classified</field>
+	</row>
+
+	<row>
+		<field name="code">65110</field>
+		<field name="section">K</field>
+		<field name="description">Life insurance</field>
+	</row>
+
+	<row>
+		<field name="code">65120</field>
+		<field name="section">K</field>
+		<field name="description">Non-life insurance</field>
+	</row>
+
+	<row>
+		<field name="code">65201</field>
+		<field name="section">K</field>
+		<field name="description">Life reinsurance</field>
+	</row>
+
+	<row>
+		<field name="code">65202</field>
+		<field name="section">K</field>
+		<field name="description">Non-life reinsurance</field>
+	</row>
+
+	<row>
+		<field name="code">65300</field>
+		<field name="section">K</field>
+		<field name="description">Pension funding</field>
+	</row>
+
+	<row>
+		<field name="code">66110</field>
+		<field name="section">K</field>
+		<field name="description">Administration of financial markets</field>
+	</row>
+
+	<row>
+		<field name="code">66120</field>
+		<field name="section">K</field>
+		<field name="description">Security and commodity contracts dealing activities</field>
+	</row>
+
+	<row>
+		<field name="code">66190</field>
+		<field name="section">K</field>
+		<field name="description">Activities auxiliary to financial intermediation n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">66210</field>
+		<field name="section">K</field>
+		<field name="description">Risk and damage evaluation</field>
+	</row>
+
+	<row>
+		<field name="code">66220</field>
+		<field name="section">K</field>
+		<field name="description">Activities of insurance agents and brokers</field>
+	</row>
+
+	<row>
+		<field name="code">66290</field>
+		<field name="section">K</field>
+		<field name="description">Other activities auxiliary to insurance and pension funding</field>
+	</row>
+
+	<row>
+		<field name="code">66300</field>
+		<field name="section">K</field>
+		<field name="description">Fund management activities</field>
+	</row>
+
+	<row>
+		<field name="code">68100</field>
+		<field name="section">L</field>
+		<field name="description">Buying and selling of own real estate</field>
+	</row>
+
+	<row>
+		<field name="code">68201</field>
+		<field name="section">L</field>
+		<field name="description">Renting and operating of Housing Association real estate</field>
+	</row>
+
+	<row>
+		<field name="code">68202</field>
+		<field name="section">L</field>
+		<field name="description">Letting and operating of conference and exhibition centres</field>
+	</row>
+
+	<row>
+		<field name="code">68209</field>
+		<field name="section">L</field>
+		<field name="description">Other letting and operating of own or leased real estate</field>
+	</row>
+
+	<row>
+		<field name="code">68310</field>
+		<field name="section">L</field>
+		<field name="description">Real estate agencies</field>
+	</row>
+
+	<row>
+		<field name="code">68320</field>
+		<field name="section">L</field>
+		<field name="description">Management of real estate on a fee or contract basis</field>
+	</row>
+
+	<row>
+		<field name="code">69101</field>
+		<field name="section">M</field>
+		<field name="description">Barristers at law</field>
+	</row>
+
+	<row>
+		<field name="code">69102</field>
+		<field name="section">M</field>
+		<field name="description">Solicitors</field>
+	</row>
+
+	<row>
+		<field name="code">69109</field>
+		<field name="section">M</field>
+		<field name="description">Activities of patent and copyright agents; other legal activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">69201</field>
+		<field name="section">M</field>
+		<field name="description">Accounting and auditing activities</field>
+	</row>
+
+	<row>
+		<field name="code">69202</field>
+		<field name="section">M</field>
+		<field name="description">Bookkeeping activities</field>
+	</row>
+
+	<row>
+		<field name="code">69203</field>
+		<field name="section">M</field>
+		<field name="description">Tax consultancy</field>
+	</row>
+
+	<row>
+		<field name="code">70100</field>
+		<field name="section">M</field>
+		<field name="description">Activities of head offices</field>
+	</row>
+
+	<row>
+		<field name="code">70210</field>
+		<field name="section">M</field>
+		<field name="description">Public relations and communications activities</field>
+	</row>
+
+	<row>
+		<field name="code">70221</field>
+		<field name="section">M</field>
+		<field name="description">Financial management</field>
+	</row>
+
+	<row>
+		<field name="code">70229</field>
+		<field name="section">M</field>
+		<field name="description">Management consultancy activities other than financial management</field>
+	</row>
+
+	<row>
+		<field name="code">71111</field>
+		<field name="section">M</field>
+		<field name="description">Architectural activities</field>
+	</row>
+
+	<row>
+		<field name="code">71112</field>
+		<field name="section">M</field>
+		<field name="description">Urban planning and landscape architectural activities</field>
+	</row>
+
+	<row>
+		<field name="code">71121</field>
+		<field name="section">M</field>
+		<field name="description">Engineering design activities for industrial process and production</field>
+	</row>
+
+	<row>
+		<field name="code">71122</field>
+		<field name="section">M</field>
+		<field name="description">Engineering related scientific and technical consulting activities</field>
+	</row>
+
+	<row>
+		<field name="code">71129</field>
+		<field name="section">M</field>
+		<field name="description">Other engineering activities</field>
+	</row>
+
+	<row>
+		<field name="code">71200</field>
+		<field name="section">M</field>
+		<field name="description">Technical testing and analysis</field>
+	</row>
+
+	<row>
+		<field name="code">72110</field>
+		<field name="section">M</field>
+		<field name="description">Research and experimental development on biotechnology</field>
+	</row>
+
+	<row>
+		<field name="code">72190</field>
+		<field name="section">M</field>
+		<field name="description">Other research and experimental development on natural sciences and engineering</field>
+	</row>
+
+	<row>
+		<field name="code">72200</field>
+		<field name="section">M</field>
+		<field name="description">Research and experimental development on social sciences and humanities</field>
+	</row>
+
+	<row>
+		<field name="code">73110</field>
+		<field name="section">M</field>
+		<field name="description">Advertising agencies</field>
+	</row>
+
+	<row>
+		<field name="code">73120</field>
+		<field name="section">M</field>
+		<field name="description">Media representation services</field>
+	</row>
+
+	<row>
+		<field name="code">73200</field>
+		<field name="section">M</field>
+		<field name="description">Market research and public opinion polling</field>
+	</row>
+
+	<row>
+		<field name="code">74100</field>
+		<field name="section">M</field>
+		<field name="description">specialised design activities</field>
+	</row>
+
+	<row>
+		<field name="code">74201</field>
+		<field name="section">M</field>
+		<field name="description">Portrait photographic activities</field>
+	</row>
+
+	<row>
+		<field name="code">74202</field>
+		<field name="section">M</field>
+		<field name="description">Other specialist photography</field>
+	</row>
+
+	<row>
+		<field name="code">74203</field>
+		<field name="section">M</field>
+		<field name="description">Film processing</field>
+	</row>
+
+	<row>
+		<field name="code">74209</field>
+		<field name="section">M</field>
+		<field name="description">Photographic activities not elsewhere classified</field>
+	</row>
+
+	<row>
+		<field name="code">74300</field>
+		<field name="section">M</field>
+		<field name="description">Translation and interpretation activities</field>
+	</row>
+
+	<row>
+		<field name="code">74901</field>
+		<field name="section">M</field>
+		<field name="description">Environmental consulting activities</field>
+	</row>
+
+	<row>
+		<field name="code">74902</field>
+		<field name="section">M</field>
+		<field name="description">Quantity surveying activities</field>
+	</row>
+
+	<row>
+		<field name="code">74909</field>
+		<field name="section">M</field>
+		<field name="description">Other professional, scientific and technical activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">74990</field>
+		<field name="section">M</field>
+		<field name="description">Non-trading company</field>
+	</row>
+
+	<row>
+		<field name="code">75000</field>
+		<field name="section">M</field>
+		<field name="description">Veterinary activities</field>
+	</row>
+
+	<row>
+		<field name="code">77110</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of cars and light motor vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">77120</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of trucks and other heavy vehicles</field>
+	</row>
+
+	<row>
+		<field name="code">77210</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of recreational and sports goods</field>
+	</row>
+
+	<row>
+		<field name="code">77220</field>
+		<field name="section">N</field>
+		<field name="description">Renting of video tapes and disks</field>
+	</row>
+
+	<row>
+		<field name="code">77291</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of media entertainment equipment</field>
+	</row>
+
+	<row>
+		<field name="code">77299</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of other personal and household goods</field>
+	</row>
+
+	<row>
+		<field name="code">77310</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of agricultural machinery and equipment</field>
+	</row>
+
+	<row>
+		<field name="code">77320</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of construction and civil engineering machinery and equipment</field>
+	</row>
+
+	<row>
+		<field name="code">77330</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of office machinery and equipment (including computers)</field>
+	</row>
+
+	<row>
+		<field name="code">77341</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of passenger water transport equipment</field>
+	</row>
+
+	<row>
+		<field name="code">77342</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of freight water transport equipment</field>
+	</row>
+
+	<row>
+		<field name="code">77351</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of air passenger transport equipment</field>
+	</row>
+
+	<row>
+		<field name="code">77352</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of freight air transport equipment</field>
+	</row>
+
+	<row>
+		<field name="code">77390</field>
+		<field name="section">N</field>
+		<field name="description">Renting and leasing of other machinery, equipment and tangible goods n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">77400</field>
+		<field name="section">N</field>
+		<field name="description">Leasing of intellectual property and similar products, except copyright works</field>
+	</row>
+
+	<row>
+		<field name="code">78101</field>
+		<field name="section">N</field>
+		<field name="description">Motion picture, television and other theatrical casting activities</field>
+	</row>
+
+	<row>
+		<field name="code">78109</field>
+		<field name="section">N</field>
+		<field name="description">Other activities of employment placement agencies</field>
+	</row>
+
+	<row>
+		<field name="code">78200</field>
+		<field name="section">N</field>
+		<field name="description">Temporary employment agency activities</field>
+	</row>
+
+	<row>
+		<field name="code">78300</field>
+		<field name="section">N</field>
+		<field name="description">Human resources provision and management of human resources functions</field>
+	</row>
+
+	<row>
+		<field name="code">79110</field>
+		<field name="section">N</field>
+		<field name="description">Travel agency activities</field>
+	</row>
+
+	<row>
+		<field name="code">79120</field>
+		<field name="section">N</field>
+		<field name="description">Tour operator activities</field>
+	</row>
+
+	<row>
+		<field name="code">79901</field>
+		<field name="section">N</field>
+		<field name="description">Activities of tourist guides</field>
+	</row>
+
+	<row>
+		<field name="code">79909</field>
+		<field name="section">N</field>
+		<field name="description">Other reservation service activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">80100</field>
+		<field name="section">N</field>
+		<field name="description">Private security activities</field>
+	</row>
+
+	<row>
+		<field name="code">80200</field>
+		<field name="section">N</field>
+		<field name="description">Security systems service activities</field>
+	</row>
+
+	<row>
+		<field name="code">80300</field>
+		<field name="section">N</field>
+		<field name="description">Investigation activities</field>
+	</row>
+
+	<row>
+		<field name="code">81100</field>
+		<field name="section">N</field>
+		<field name="description">Combined facilities support activities</field>
+	</row>
+
+	<row>
+		<field name="code">81210</field>
+		<field name="section">N</field>
+		<field name="description">General cleaning of buildings</field>
+	</row>
+
+	<row>
+		<field name="code">81221</field>
+		<field name="section">N</field>
+		<field name="description">Window cleaning services</field>
+	</row>
+
+	<row>
+		<field name="code">81222</field>
+		<field name="section">N</field>
+		<field name="description">Specialised cleaning services</field>
+	</row>
+
+	<row>
+		<field name="code">81223</field>
+		<field name="section">N</field>
+		<field name="description">Furnace and chimney cleaning services</field>
+	</row>
+
+	<row>
+		<field name="code">81229</field>
+		<field name="section">N</field>
+		<field name="description">Other building and industrial cleaning activities</field>
+	</row>
+
+	<row>
+		<field name="code">81291</field>
+		<field name="section">N</field>
+		<field name="description">Disinfecting and exterminating services</field>
+	</row>
+
+	<row>
+		<field name="code">81299</field>
+		<field name="section">N</field>
+		<field name="description">Other cleaning services</field>
+	</row>
+
+	<row>
+		<field name="code">81300</field>
+		<field name="section">N</field>
+		<field name="description">Landscape service activities</field>
+	</row>
+
+	<row>
+		<field name="code">82110</field>
+		<field name="section">N</field>
+		<field name="description">Combined office administrative service activities</field>
+	</row>
+
+	<row>
+		<field name="code">82190</field>
+		<field name="section">N</field>
+		<field name="description">Photocopying, document preparation and other specialised office support activities</field>
+	</row>
+
+	<row>
+		<field name="code">82200</field>
+		<field name="section">N</field>
+		<field name="description">Activities of call centres</field>
+	</row>
+
+	<row>
+		<field name="code">82301</field>
+		<field name="section">N</field>
+		<field name="description">Activities of exhibition and fair organisers</field>
+	</row>
+
+	<row>
+		<field name="code">82302</field>
+		<field name="section">N</field>
+		<field name="description">Activities of conference organisers</field>
+	</row>
+
+	<row>
+		<field name="code">82911</field>
+		<field name="section">N</field>
+		<field name="description">Activities of collection agencies</field>
+	</row>
+
+	<row>
+		<field name="code">82912</field>
+		<field name="section">N</field>
+		<field name="description">Activities of credit bureaus</field>
+	</row>
+
+	<row>
+		<field name="code">82920</field>
+		<field name="section">N</field>
+		<field name="description">Packaging activities</field>
+	</row>
+
+	<row>
+		<field name="code">82990</field>
+		<field name="section">N</field>
+		<field name="description">Other business support service activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">84110</field>
+		<field name="section">O</field>
+		<field name="description">General public administration activities</field>
+	</row>
+
+	<row>
+		<field name="code">84120</field>
+		<field name="section">O</field>
+		<field name="description">Regulation of health care, education, cultural and other social services, not incl. social security</field>
+	</row>
+
+	<row>
+		<field name="code">84130</field>
+		<field name="section">O</field>
+		<field name="description">Regulation of and contribution to more efficient operation of businesses</field>
+	</row>
+
+	<row>
+		<field name="code">84210</field>
+		<field name="section">O</field>
+		<field name="description">Foreign affairs</field>
+	</row>
+
+	<row>
+		<field name="code">84220</field>
+		<field name="section">O</field>
+		<field name="description">Defence activities</field>
+	</row>
+
+	<row>
+		<field name="code">84230</field>
+		<field name="section">O</field>
+		<field name="description">Justice and judicial activities</field>
+	</row>
+
+	<row>
+		<field name="code">84240</field>
+		<field name="section">O</field>
+		<field name="description">Public order and safety activities</field>
+	</row>
+
+	<row>
+		<field name="code">84250</field>
+		<field name="section">O</field>
+		<field name="description">Fire service activities</field>
+	</row>
+
+	<row>
+		<field name="code">84300</field>
+		<field name="section">O</field>
+		<field name="description">Compulsory social security activities</field>
+	</row>
+
+	<row>
+		<field name="code">85100</field>
+		<field name="section">P</field>
+		<field name="description">Pre-primary education</field>
+	</row>
+
+	<row>
+		<field name="code">85200</field>
+		<field name="section">P</field>
+		<field name="description">Primary education</field>
+	</row>
+
+	<row>
+		<field name="code">85310</field>
+		<field name="section">P</field>
+		<field name="description">General secondary education</field>
+	</row>
+
+	<row>
+		<field name="code">85320</field>
+		<field name="section">P</field>
+		<field name="description">Technical and vocational secondary education</field>
+	</row>
+
+	<row>
+		<field name="code">85410</field>
+		<field name="section">P</field>
+		<field name="description">Post-secondary non-tertiary education</field>
+	</row>
+
+	<row>
+		<field name="code">85421</field>
+		<field name="section">P</field>
+		<field name="description">First-degree level higher education</field>
+	</row>
+
+	<row>
+		<field name="code">85422</field>
+		<field name="section">P</field>
+		<field name="description">Post-graduate level higher education</field>
+	</row>
+
+	<row>
+		<field name="code">85510</field>
+		<field name="section">P</field>
+		<field name="description">Sports and recreation education</field>
+	</row>
+
+	<row>
+		<field name="code">85520</field>
+		<field name="section">P</field>
+		<field name="description">Cultural education</field>
+	</row>
+
+	<row>
+		<field name="code">85530</field>
+		<field name="section">P</field>
+		<field name="description">Driving school activities</field>
+	</row>
+
+	<row>
+		<field name="code">85590</field>
+		<field name="section">P</field>
+		<field name="description">Other education n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">85600</field>
+		<field name="section">P</field>
+		<field name="description">Educational support services</field>
+	</row>
+
+	<row>
+		<field name="code">86101</field>
+		<field name="section">Q</field>
+		<field name="description">Hospital activities</field>
+	</row>
+
+	<row>
+		<field name="code">86102</field>
+		<field name="section">Q</field>
+		<field name="description">Medical nursing home activities</field>
+	</row>
+
+	<row>
+		<field name="code">86210</field>
+		<field name="section">Q</field>
+		<field name="description">General medical practice activities</field>
+	</row>
+
+	<row>
+		<field name="code">86220</field>
+		<field name="section">Q</field>
+		<field name="description">Specialists medical practice activities</field>
+	</row>
+
+	<row>
+		<field name="code">86230</field>
+		<field name="section">Q</field>
+		<field name="description">Dental practice activities</field>
+	</row>
+
+	<row>
+		<field name="code">86900</field>
+		<field name="section">Q</field>
+		<field name="description">Other human health activities</field>
+	</row>
+
+	<row>
+		<field name="code">87100</field>
+		<field name="section">Q</field>
+		<field name="description">Residential nursing care facilities</field>
+	</row>
+
+	<row>
+		<field name="code">87200</field>
+		<field name="section">Q</field>
+		<field name="description">Residential care activities for learning difficulties, mental health and substance abuse</field>
+	</row>
+
+	<row>
+		<field name="code">87300</field>
+		<field name="section">Q</field>
+		<field name="description">Residential care activities for the elderly and disabled</field>
+	</row>
+
+	<row>
+		<field name="code">87900</field>
+		<field name="section">Q</field>
+		<field name="description">Other residential care activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">88100</field>
+		<field name="section">Q</field>
+		<field name="description">Social work activities without accommodation for the elderly and disabled</field>
+	</row>
+
+	<row>
+		<field name="code">88910</field>
+		<field name="section">Q</field>
+		<field name="description">Child day-care activities</field>
+	</row>
+
+	<row>
+		<field name="code">88990</field>
+		<field name="section">Q</field>
+		<field name="description">Other social work activities without accommodation n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">90010</field>
+		<field name="section">R</field>
+		<field name="description">Performing arts</field>
+	</row>
+
+	<row>
+		<field name="code">90020</field>
+		<field name="section">R</field>
+		<field name="description">Support activities to performing arts</field>
+	</row>
+
+	<row>
+		<field name="code">90030</field>
+		<field name="section">R</field>
+		<field name="description">Artistic creation</field>
+	</row>
+
+	<row>
+		<field name="code">90040</field>
+		<field name="section">R</field>
+		<field name="description">Operation of arts facilities</field>
+	</row>
+
+	<row>
+		<field name="code">91011</field>
+		<field name="section">R</field>
+		<field name="description">Library activities</field>
+	</row>
+
+	<row>
+		<field name="code">91012</field>
+		<field name="section">R</field>
+		<field name="description">Archives activities</field>
+	</row>
+
+	<row>
+		<field name="code">91020</field>
+		<field name="section">R</field>
+		<field name="description">Museums activities</field>
+	</row>
+
+	<row>
+		<field name="code">91030</field>
+		<field name="section">R</field>
+		<field name="description">Operation of historical sites and buildings and similar visitor attractions</field>
+	</row>
+
+	<row>
+		<field name="code">91040</field>
+		<field name="section">R</field>
+		<field name="description">Botanical and zoological gardens and nature reserves activities</field>
+	</row>
+
+	<row>
+		<field name="code">92000</field>
+		<field name="section">R</field>
+		<field name="description">Gambling and betting activities</field>
+	</row>
+
+	<row>
+		<field name="code">93110</field>
+		<field name="section">R</field>
+		<field name="description">Operation of sports facilities</field>
+	</row>
+
+	<row>
+		<field name="code">93120</field>
+		<field name="section">R</field>
+		<field name="description">Activities of sport clubs</field>
+	</row>
+
+	<row>
+		<field name="code">93130</field>
+		<field name="section">R</field>
+		<field name="description">Fitness facilities</field>
+	</row>
+
+	<row>
+		<field name="code">93191</field>
+		<field name="section">R</field>
+		<field name="description">Activities of racehorse owners</field>
+	</row>
+
+	<row>
+		<field name="code">93199</field>
+		<field name="section">R</field>
+		<field name="description">Other sports activities</field>
+	</row>
+
+	<row>
+		<field name="code">93210</field>
+		<field name="section">R</field>
+		<field name="description">Activities of amusement parks and theme parks</field>
+	</row>
+
+	<row>
+		<field name="code">93290</field>
+		<field name="section">R</field>
+		<field name="description">Other amusement and recreation activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">94110</field>
+		<field name="section">S</field>
+		<field name="description">Activities of business and employers membership organisations</field>
+	</row>
+
+	<row>
+		<field name="code">94120</field>
+		<field name="section">S</field>
+		<field name="description">Activities of professional membership organisations</field>
+	</row>
+
+	<row>
+		<field name="code">94200</field>
+		<field name="section">S</field>
+		<field name="description">Activities of trade unions</field>
+	</row>
+
+	<row>
+		<field name="code">94910</field>
+		<field name="section">S</field>
+		<field name="description">Activities of religious organisations</field>
+	</row>
+
+	<row>
+		<field name="code">94920</field>
+		<field name="section">S</field>
+		<field name="description">Activities of political organisations</field>
+	</row>
+
+	<row>
+		<field name="code">94990</field>
+		<field name="section">S</field>
+		<field name="description">Activities of other membership organisations n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">95110</field>
+		<field name="section">S</field>
+		<field name="description">Repair of computers and peripheral equipment</field>
+	</row>
+
+	<row>
+		<field name="code">95120</field>
+		<field name="section">S</field>
+		<field name="description">Repair of communication equipment</field>
+	</row>
+
+	<row>
+		<field name="code">95210</field>
+		<field name="section">S</field>
+		<field name="description">Repair of consumer electronics</field>
+	</row>
+
+	<row>
+		<field name="code">95220</field>
+		<field name="section">S</field>
+		<field name="description">Repair of household appliances and home and garden equipment</field>
+	</row>
+
+	<row>
+		<field name="code">95230</field>
+		<field name="section">S</field>
+		<field name="description">Repair of footwear and leather goods</field>
+	</row>
+
+	<row>
+		<field name="code">95240</field>
+		<field name="section">S</field>
+		<field name="description">Repair of furniture and home furnishings</field>
+	</row>
+
+	<row>
+		<field name="code">95250</field>
+		<field name="section">S</field>
+		<field name="description">Repair of watches, clocks and jewellery</field>
+	</row>
+
+	<row>
+		<field name="code">95290</field>
+		<field name="section">S</field>
+		<field name="description">Repair of personal and household goods n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">96010</field>
+		<field name="section">S</field>
+		<field name="description">Washing and (dry-)cleaning of textile and fur products</field>
+	</row>
+
+	<row>
+		<field name="code">96020</field>
+		<field name="section">S</field>
+		<field name="description">Hairdressing and other beauty treatment</field>
+	</row>
+
+	<row>
+		<field name="code">96030</field>
+		<field name="section">S</field>
+		<field name="description">Funeral and related activities</field>
+	</row>
+
+	<row>
+		<field name="code">96040</field>
+		<field name="section">S</field>
+		<field name="description">Physical well-being activities</field>
+	</row>
+
+	<row>
+		<field name="code">96090</field>
+		<field name="section">S</field>
+		<field name="description">Other service activities n.e.c.</field>
+	</row>
+
+	<row>
+		<field name="code">97000</field>
+		<field name="section">T</field>
+		<field name="description">Activities of households as employers of domestic personnel</field>
+	</row>
+
+	<row>
+		<field name="code">98000</field>
+		<field name="section">T</field>
+		<field name="description">Residents property management</field>
+	</row>
+
+	<row>
+		<field name="code">98100</field>
+		<field name="section">T</field>
+		<field name="description">Undifferentiated goods-producing activities of private households for own use</field>
+	</row>
+
+	<row>
+		<field name="code">98200</field>
+		<field name="section">T</field>
+		<field name="description">Undifferentiated service-producing activities of private households for own use</field>
+	</row>
+
+	<row>
+		<field name="code">99000</field>
+		<field name="section">U</field>
+		<field name="description">Activities of extraterritorial organisations and bodies</field>
+	</row>
+
+	<row>
+		<field name="code">99999</field>
+		<field name="section">U</field>
+		<field name="description">Dormant Company</field>
+	</row>
+
+</table>
