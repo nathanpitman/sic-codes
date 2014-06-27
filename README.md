@@ -26,3 +26,7 @@ Sections
 * S - Other service activities
 * T - Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
 * U - Activities of extraterritorial organisations and bodies    
+
+You can find out more about SIC codes and their history here:
+
+http://en.wikipedia.org/wiki/Standard_Industrial_Classification
